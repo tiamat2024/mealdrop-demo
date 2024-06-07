@@ -17,5 +17,5 @@ const Template: StoryFn<typeof Badge> = (args) => <Badge {...args} />
 
 export const Default = Template.bind({})
 Default.args = {
-  text: 'Comfort food',
+  text: 'Comfort foob',
 }
