@@ -8,6 +8,7 @@ const Container = styled.div(
     background: ${color.badgeBackground};
     border-radius: ${borderRadius.xs};
     display: inline-block;
+    font-style: italic;
     span {
       color: ${color.badgeText};
     }
