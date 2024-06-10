@@ -8,7 +8,6 @@ const Container = styled.div(
     background: ${color.badgeBackground};
     border-radius: ${borderRadius.xs};
     display: inline-block;
-    text-transform: capitalize;
     span {
       color: ${color.badgeText};
     }
